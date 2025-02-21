@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data science and development in Relatividad IA.<br>👯 I’m looking to collaborate on data science and creative tech projects.<br>🤝 I’m looking for Big Data, advanced ML, and cloud development.<br>🌱 I’m currently learning frontend, ML, and blending art with tech.<br>💬 Ask me about data science, ML, and creativity.<br>⚡ Fun fact: My GitHub commits are on company projects, but I’m always coding and creating art.
+🔭 I’m currently working on Data science and development in Infin-IA.<br>👯 I’m looking to collaborate on data science and creative tech projects.<br>🤝 I’m looking for Big Data, advanced ML, and cloud development.<br>🌱 I’m currently learning frontend, ML, and blending art with tech.<br>💬 Ask me about data science, ML, and creativity.<br>⚡ Fun fact: My GitHub commits are on company projects, but I’m always coding and creating art.
 
 
 ## 🌐 Socials:
